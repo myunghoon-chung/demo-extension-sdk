@@ -22,4 +22,10 @@ application: demo-embeds {
     scoped_user_attributes: []
     global_user_attributes: []
   }
+  mount_points: {
+    dashboard_vis: yes
+    dashboard_tile: yes
+    standalone: yes
+  }
+
 }
